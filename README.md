@@ -1,5 +1,11 @@
 # Домашнее задание к занятию "Практическое применение Docker" - Кобалия Иосиф
 
+### Задание 0
+
+![img7.png](https://github.com/urod2002/docker-2-read/blob/main/img/img7.png?raw=true)
+
+v5.6.0 - версия современного Docker Compose
+
 ### Задание 1
 
 В задании не указан формат ответа, так что предоставлю ссылку на свой форк репозитория со всеми пятью файлами (`Dockerfile.python`, `compose.yaml`, `.gitignore`, `.dockerignore` и bash-скрипт `deploy.sh`) - https://github.com/urod2002/docker-2
@@ -32,3 +38,8 @@
 
    ![img6.png](https://github.com/urod2002/docker-2-read/blob/main/img/img6.png?raw=true)
 
+
+
+
+
+P.S. Я открыто передаю пароли так как воспринимаю их как учебные, поскольку они также открыто передаются в оригинальном репозитории. С .gitignore и переменными окружения такая же история.
