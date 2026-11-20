@@ -8,7 +8,7 @@
 
 Скриншот sql-запроса
 
-img1
+![img1.png](https://github.com/urod2002/docker-2-read/blob/main/img/img1.png?raw=true)
 
 ### Задание 4
 
@@ -16,15 +16,19 @@ img1
 
 Скриншот проверки check-host.net и sql запроса на сервере:
 
-img2
+![img2.png](https://github.com/urod2002/docker-2-read/blob/main/img/img2.png?raw=true)
 
-img3
+
+![img3.png](https://github.com/urod2002/docker-2-read/blob/main/img/img3.png?raw=true)
 
 ### Задание 6
 
-1) Скачивание образа, сохранение образа в .tar архив и запуск dive в контейнере в соответствии [с инструкцией с github](https://github.com/wagoodman/dive). Также была проброшена текущая папка, чтобы сработал Extract file
-   img4
-2) Файл /bin/terraform найден и сохранён
-   img5
-   img6
+1. Скачивание образа, сохранение образа в .tar архив и запуск dive в контейнере в соответствии [с инструкцией с github](https://github.com/wagoodman/dive). Также была проброшена текущая папка, чтобы сработал Extract file
+   ![img4.png](https://github.com/urod2002/docker-2-read/blob/main/img/img4.png?raw=true)
+
+2. Файл /bin/terraform найден и сохранён
+   ![img5.png](https://github.com/urod2002/docker-2-read/blob/main/img/img5.png?raw=true)
+
+
+   ![img6.png](https://github.com/urod2002/docker-2-read/blob/main/img/img6.png?raw=true)
 
